@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulatgaazov/Desktop/CPP/mySet/main.cpp
+iostream
+-
+set
+-
+random
+-
+chrono
+-
+mySet.h
+/Users/bulatgaazov/Desktop/CPP/mySet/mySet.h
+
+/Users/bulatgaazov/Desktop/CPP/mySet/mySet.h
+vector
+-
+queue
+-
+
